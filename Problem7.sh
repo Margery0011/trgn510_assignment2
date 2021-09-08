@@ -7,5 +7,5 @@ filename=$1
 wget -O website $filename
 while read -n   1 c 
 do
-  echo head  "$c"
+  echo "$c"
 done <  "website" | grep '[[:alpha:]]' | sort | uniq -c | sort -nr
