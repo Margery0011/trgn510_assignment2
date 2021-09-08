@@ -5,7 +5,7 @@ if [ -z "$1" ]; then
 fi
 filename=$1
 wget -O website $filename
-while read -n 1 c
+while read -n   1 c 
 do
-   echo "$c"
-done < "website" | grep '[[:alpha:]]' | sort | uniq -c | sort -nr
+  echo head  "$c"
+done <  "website" | grep '[[:alpha:]]' | sort | uniq -c | sort -nr

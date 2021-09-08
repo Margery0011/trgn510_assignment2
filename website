@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Bioinformatics - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ce1cd284-daea-48ad-93fc-48329e7e1026","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bioinformatics","wgTitle":"Bioinformatics","wgCurRevisionId":1042655511,"wgRevisionId":1042655511,"wgArticleId":4214,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 errors: missing title","Articles with short description","Short description is different from Wikidata","Use dmy dates from September 2020","Articles with hAudio microformats","Pages including recorded pronunciations",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"028c99ae-f4e2-4bc1-8d94-8e3adba81f42","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bioinformatics","wgTitle":"Bioinformatics","wgCurRevisionId":1042655511,"wgRevisionId":1042655511,"wgArticleId":4214,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 errors: missing title","Articles with short description","Short description is different from Wikidata","Use dmy dates from September 2020","Articles with hAudio microformats","Pages including recorded pronunciations",
 "Wikipedia articles needing clarification from March 2020","All articles with vague or ambiguous time","Vague or ambiguous time from September 2018","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from June 2020","All articles with unsourced statements","Articles with unsourced statements from July 2015","Spoken articles","Commons category link from Wikidata","Articles with GND identifiers","Articles with BNF identifiers","Articles with LCCN identifiers","Articles with NDL identifiers","Articles with MA identifiers","Articles with multiple identifiers","Bioinformatics"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bioinformatics","wgRelevantArticleId":4214,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,
 "wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q128570"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready",
 "ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
@@ -1209,13 +1209,13 @@ In the 1970s, new techniques for sequencing DNA were applied to bacteriophage MS
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw2393
-Cached time: 20210906185930
+Parsed by mw2336
+Cached time: 20210907120314
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.379 seconds
-Real time usage: 1.687 seconds
+CPU time usage: 1.510 seconds
+Real time usage: 1.901 seconds
 Preprocessor visited node count: 9371/1000000
 Post‐expand include size: 351884/2097152 bytes
 Template argument size: 13523/2097152 bytes
@@ -1223,25 +1223,25 @@ Highest expansion depth: 16/40
 Expensive parser function count: 15/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 242546/5000000 bytes
-Lua time usage: 0.703/10.000 seconds
-Lua memory usage: 8728633/52428800 bytes
+Lua time usage: 0.749/10.000 seconds
+Lua memory usage: 8170120/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1298.748      1 -total
- 34.08%  442.585      1 Template:Reflist
- 17.55%  227.869     37 Template:Cite_journal
- 11.53%  149.750     15 Template:ISBN
-  8.77%  113.860     12 Template:Navbox
-  7.94%  103.148      7 Template:Cite_web
-  6.76%   87.813      1 Template:Spoken_Wikipedia
-  4.78%   62.075      1 Template:Short_description
-  4.59%   59.651      1 Template:Library_resources_box
-  4.22%   54.817     15 Template:Catalog_lookup_link
+100.00% 1469.517      1 -total
+ 36.21%  532.175      1 Template:Reflist
+ 16.42%  241.268     37 Template:Cite_journal
+ 11.21%  164.753      7 Template:Cite_web
+  9.98%  146.721     15 Template:ISBN
+  9.69%  142.394     12 Template:Navbox
+  5.39%   79.253      1 Template:Short_description
+  4.54%   66.650      1 Template:Spoken_Wikipedia
+  3.71%   54.448     15 Template:Catalog_lookup_link
+  3.61%   53.118      9 Template:Cite_book
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:4214-0!canonical and timestamp 20210906185929 and revision id 1042655511. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4214-0!canonical and timestamp 20210907120312 and revision id 1042655511. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bioinformatics&amp;oldid=1042655511">https://en.wikipedia.org/w/index.php?title=Bioinformatics&amp;oldid=1042655511</a>"</div></div>
@@ -1435,7 +1435,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.379","walltime":"1.687","ppvisitednodes":{"value":9371,"limit":1000000},"postexpandincludesize":{"value":351884,"limit":2097152},"templateargumentsize":{"value":13523,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":242546,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1298.748      1 -total"," 34.08%  442.585      1 Template:Reflist"," 17.55%  227.869     37 Template:Cite_journal"," 11.53%  149.750     15 Template:ISBN","  8.77%  113.860     12 Template:Navbox","  7.94%  103.148      7 Template:Cite_web","  6.76%   87.813      1 Template:Spoken_Wikipedia","  4.78%   62.075      1 Template:Short_description","  4.59%   59.651      1 Template:Library_resources_box","  4.22%   54.817     15 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.703","limit":"10.000"},"limitreport-memusage":{"value":8728633,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw2393","timestamp":"20210906185930","ttl":1814400,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.510","walltime":"1.901","ppvisitednodes":{"value":9371,"limit":1000000},"postexpandincludesize":{"value":351884,"limit":2097152},"templateargumentsize":{"value":13523,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":242546,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1469.517      1 -total"," 36.21%  532.175      1 Template:Reflist"," 16.42%  241.268     37 Template:Cite_journal"," 11.21%  164.753      7 Template:Cite_web","  9.98%  146.721     15 Template:ISBN","  9.69%  142.394     12 Template:Navbox","  5.39%   79.253      1 Template:Short_description","  4.54%   66.650      1 Template:Spoken_Wikipedia","  3.71%   54.448     15 Template:Catalog_lookup_link","  3.61%   53.118      9 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.749","limit":"10.000"},"limitreport-memusage":{"value":8170120,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw2336","timestamp":"20210907120314","ttl":1814400,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bioinformatics","url":"https:\/\/en.wikipedia.org\/wiki\/Bioinformatics","sameAs":"http:\/\/www.wikidata.org\/entity\/Q128570","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q128570","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-09-20T14:58:39Z","dateModified":"2021-09-06T03:10:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/43\/Genome_viewer_screenshot_small.png","headline":"study of biological data and sequences"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":199,"wgHostname":"mw2407"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":193,"wgHostname":"mw2408"});});</script>
 </body></html>
