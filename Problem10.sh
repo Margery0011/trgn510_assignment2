@@ -1,3 +1,4 @@
+#!/bin/bash
 num1=$1
 num2=$2
 kelvin=$(echo "$1 + 273.15" | bc)
