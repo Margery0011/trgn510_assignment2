@@ -1,6 +1,6 @@
 #!/bin/bash
-FILES=$(ls $1)
-echo $FILES $1
+FILES=$(/usr/bin/ls $@)
+echo $FILES $@
 for f in $FILES
 do
    echo "Processing $f file..."
