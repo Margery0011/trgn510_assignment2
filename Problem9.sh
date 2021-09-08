@@ -1,14 +1,13 @@
 #!/bin/bash
-FILES=$(ls $1)
-echo $FILES $1
+FILES=$(ls $@)
+echo $FILES $@
 for f in $FILES
 do
-    filesize= wc -m $f
-    if [[ $filsize -eq 1000 ]]
+    if [[ `stat -c%s $f` -le 1000 ]]
     then
-    echo "Processing $f files..."
-    elif [[ $filesize -gt 1000 ]]
-    then
-    echo "Skipping ${f}"
+        echo "Processing $f files..."
+        wc -m $f
+    else
+        echo "Skipping ${f}"
     fi
 done
