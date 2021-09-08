@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 FILES=$(ls $1)
 echo $FILES $1
 for f in $FILES
