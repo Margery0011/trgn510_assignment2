@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 NUMGUESS=0
 
 echo "$0 - Guess a number between 1 and 100"
